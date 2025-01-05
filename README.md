@@ -1,18 +1,23 @@
-## Getting Started
+## Explicar Projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O projeto possui dois objetivos : o primeiro é calcular um valor dentro da sequência de Fibonacci, e o segundo é receber um número e retornar todos os números primos até o número fornecido. Para ambos os casos, foi adotada tanto uma resolutiva recursiva quanto linear.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Testar o projeto online
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+https://stackblitz.com/~/github.com/FelipeKeplerCarvalho/desafiojava
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Exemplo de Execução 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O código realizará ira disponibilizar uma pergunta de múltipla escolha, onde o usuário poderá escolher o tipo de cálculo que deseja realizar. Em seguida, será validado o valor de entrada, e o valor calculado será retornado, utilizando uma função recursiva e outra linear. Dentre as opções:
 
-## Dependency Management
+- `1`: Calcula Fibonacci
+- `2`: Retorna os Números Primos até o número colocado
+- `0`: Sai do programa
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Estrutura de Pasta
+
+- `src`: Pasta que contem o projeto
+
+
+
