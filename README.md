@@ -5,7 +5,7 @@ O projeto possui dois objetivos : o primeiro é calcular um valor dentro da sequ
 
 ## Testar o projeto online
 
-https://stackblitz.com/~/github.com/FelipeKeplerCarvalho/desafiojava
+https://www.online-java.com/LRutQHhC4i
 
 ## Exemplo de Execução 
 
