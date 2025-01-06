@@ -1,4 +1,4 @@
-## Explicar Projeto
+## Sobre o Projeto
 
 O projeto possui dois objetivos : o primeiro é calcular um valor dentro da sequência de Fibonacci, e o segundo é receber um número e retornar todos os números primos até o número fornecido. Para ambos os casos, foi adotada tanto uma resolutiva recursiva quanto linear.
 
